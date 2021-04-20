@@ -1,4 +1,4 @@
-# Klipper configuration file for my Ender 3 v2 Voxelab Aquila with BLTouch
+# Klipper configuration file for my Ender 3 v2 clone the Voxelab Aquila equipped with a BLTouch sensor.
 
 This is the current configuration for my machine, minus the machine specic items like bed mesh points and temperature PID. The 3d printer has an aluminum dual gear extruder and a BLTouch installed.
 
